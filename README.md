@@ -29,6 +29,10 @@
 | Database      | SQLite + SQLAlchemy    |
 | Authentication| Flask Sessions         |
 
+### 🌐 Live Demo
+
+[https://finwise-app.onrender.com](https://finwise-app.onrender.com)
+
 ---
 
 ## 🛠️ How to Run Locally
